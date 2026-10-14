@@ -1,12 +1,16 @@
-<!-- Profile README for KakshiDEV56 -->
+
 
 <div align="center">
   <h1>Anitesh</h1>
   <p><strong>Backend Engineering · Go · DevOps · Infrastructure</strong></p>
   <p>Building backend systems and developer tools, with an interest in the infrastructure underneath them.</p>
   <p>
-    <a href="https://github.com/KakshiDEV56"><img src="https://img.shields.io/badge/GitHub-KakshiDEV56-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-    <img src="https://komarev.com/ghpvc/?username=KakshiDEV56&style=flat-square&color=555555&label=PROFILE+VIEWS" alt="Profile views" />
+    <a href="https://github.com/KakshiDEV56">
+      <img src="https://img.shields.io/badge/GitHub-KakshiDEV56-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+    </a>
+    <a href="https://codolio.com/profile/Anitesh">
+      <img src="https://img.shields.io/badge/Codolio-Profile-5B4BDB?style=flat-square&logo=codeforces&logoColor=white" alt="Codolio profile" />
+    </a>
   </p>
 </div>
 
@@ -18,9 +22,6 @@ I'm an Electronics and Communication Engineering undergraduate at **Dr. B. R. Am
 
 I prefer learning by building systems, investigating how they behave, and improving them through practical use.
 
-## Technology
-
-Badges use the technologies' logos rather than emoji or decorative icon grids.
 
 **Backend and APIs**
 
